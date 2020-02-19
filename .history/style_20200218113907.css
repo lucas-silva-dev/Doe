@@ -1,0 +1,15 @@
+/* 
+  CASCADING STYLESHEET
+*/
+
+/* ALINHAMENTOS, ESPAÇAMENTOS, 
+  LARGURAS E ALTURAS */
+header,
+main,
+footer {
+  text-align: center;
+}
+
+section.donors {
+  display: grid;
+}
