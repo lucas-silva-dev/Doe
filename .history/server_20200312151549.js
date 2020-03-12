@@ -41,7 +41,7 @@ server.post("/", (req, res) => {
   const { name, email, blood } = req.body;
 
   if ((name, email, blood == "")) {
-    return res.json({ error: "Todos os campos são obrigatórios!!!" });
+    return res.alert(error: "Todos os campos são obrigatórios!!!");
   }
 
   //colocar os valores dentro do banco de dados.

@@ -3,6 +3,15 @@
 */
 
 /* GLOBAL */
+
+input:invalid + .aviso:after {
+  position: absolute;
+  content: "!";
+  color: #f00;
+  font: bold normal 1em sans-serif;
+  left: 190px;
+}
+
 * {
   /* corrigindo comportamento padrão css */
   box-sizing: border-box;
