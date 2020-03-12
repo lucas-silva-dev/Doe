@@ -14,4 +14,6 @@ Feita utilizando:
 
  ![doe](/public/img/Doe.png)
  
+ ______________________________________
+ 
  ![doe-home](/public/img/Doe-home.png)
