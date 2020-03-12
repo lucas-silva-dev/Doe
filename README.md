@@ -13,4 +13,4 @@ Feita utilizando:
 
  ![doe](/public/img/Doe.png)
  
- ![doe](/public/img/Doe-home.png)
+ ![doe-home](/public/img/Doe-home.png)
